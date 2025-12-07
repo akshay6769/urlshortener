@@ -127,7 +127,27 @@ Only system-permitted internal processes (if defined) may generate URLs.
 
 # 🧰 Installation Guide (Laravel)
 
-## 1️⃣ Clone Repository
+## 🚀 How to Set Up the Project Locally
+
+Follow these steps to run the project on your local system for testing and development.
+
+---
+
+### ✅ 1. Install Required Software
+
+Make sure you have the following installed:
+
+- PHP 8.1 or later  
+- MySQL (or MariaDB)  
+- Composer (optional)  
+- A database GUI (phpMyAdmin / MySQL Workbench)  
+- A local server (PHP built-in server recommended)
+
+---
+
+### ✅ 2. Clone the Project
+
 ```bash
 git clone https://github.com/yourusername/url-shortener.git
 cd url-shortener
+
